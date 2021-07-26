@@ -1,0 +1,16 @@
+.friends-dp {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(36, 36, 36, 0.048);
+  padding: 15px;
+}
+.friends-dp__icon,
+.friends-dp__chevron {
+  opacity: 0.3;
+}
+.friends-dp__text {
+  margin: 0px 6px;
+  opacity: 0.8;
+  font-size: 14px;
+}

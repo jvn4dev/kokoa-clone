@@ -1,0 +1,42 @@
+.user-profile {
+  display: flex;
+  margin: 10px 20px;
+}
+
+.user-profile__column:first-child {
+  display: flex;
+  align-items: center;
+}
+
+.user-profile__column:last-child {
+  display: flex;
+  right: 0;
+  align-items: center;
+}
+
+.user-profile__image {
+  width: 52px;
+  height: 52px;
+  border-radius: 40%;
+  margin-right: 15px;
+}
+
+.user-profile__title {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.user-profile__image--xl {
+  width: 60px;
+  height: 60px;
+}
+
+.user-profile__image--sm {
+  width: 47px;
+  height: 47px;
+}
+
+.user-profile__title--sm {
+  font-size: 17px;
+  font-weight: 400;
+}

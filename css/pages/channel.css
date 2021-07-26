@@ -1,0 +1,9 @@
+.channel {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 20px;
+  font-size: 13px;
+  border-top: 0.3px solid rgba(0, 0, 0, 0.1);
+  padding: 15px 0px;
+  color: rgba(0, 0, 0, 0.4);
+}
